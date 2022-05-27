@@ -1,0 +1,9 @@
+CREDITS
+------
+Some functions such as ghost ping, rainbow role and auto bump were made by me.
+I've added some functions from the following sources:
+
+- Snaxes Selfbot(Good Options But Contains Token Logger)
+- Alucard Selfbot
+- Scalic Selfbot
+- Strawhat Nuker 

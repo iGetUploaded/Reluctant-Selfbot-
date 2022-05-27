@@ -1,0 +1,17 @@
+How to setup Reluctant Bot
+----------------------
+1. Download install_requirements.bat and Reluctant_Bot.rar
+2. Extract Reluctant_Bot.rar and put the .bat file in the folder
+3. Run "install_requirements.bat" and wait for it to finish
+4. Put your token in "config.json" and run Odium!
+
+How to get your token
+---------------------
+1. Open discord.com in google chrome and login to your account
+2. Press F12 and click "Application" at the top
+3. On the left side you will see "Local Storage", click the dropdown
+4. Where it says "Filter" type "token". If you dont see your token refresh but do not close the F12
+
+* DISCLAIMER *
+Your account is at risk of getting banned when using this. Therefor when installing and using Odium Bot, you agree that it is not
+Reluctant Security's responsibility if your account gets banned.
